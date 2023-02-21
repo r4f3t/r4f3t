@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Rafet Parlak</h1>  
 <h3 align="center">Senior software engineer with 5+ years of experience as a web application developer in medical-tech and ecommerce industries. I've started my career as a full stack developer. Currently, I'm working as a senior backend developer in Turkey's biggest e-commerce company Hepsiburada. I've focused on developing scalable and well documented code. Also I'm trying to improve my skills regarding to newest technologies and trends.</h3>  
   
-- 📫 How to reach me **parlakrafet01@gmail.com**  
+<p align="center">- 📫 <a href="mailto:parlakrafet01@gmail.com"> parlakrafet01@gmail.com</a>  </p>
   
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
+<h3 align="center">Connect with me:</h3>  
+<p align="center">  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rafet-parlak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafet-parlak/" height="30" width="40" /></a>  
 </p>  
   
